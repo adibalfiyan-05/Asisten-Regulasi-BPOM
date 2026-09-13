@@ -1,254 +1,72 @@
-[
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/343812/peraturan-bpom-no-32-tahun-2025",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/407049/peraturan-bpom-no-32-tahun-2025.pdf",
-    "title": "Penyelenggaraan Pelatihan Bidang Keamanan Pangan",
-    "number": "32",
-    "year": 2025,
-    "status": "Berlaku",
-    "effective_date": "16 Desember 2025",
-    "source_info": "BN 2025 (1062); 9 hlm",
-    "category": "Pangan",
-    "filename": "PerBPOM_32_2025_Penyelenggaraan_Pelatihan_Bidang_Keamanan_Pangan.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_32_2025_Penyelenggaraan_Pelatihan_Bidang_Keamanan_Pangan.pdf",
-    "abstract": "Penyelenggaraan - Pelatihan - Bidang Keamanan Pangan 2025 Peraturan Badan Pengawas Obat dan Makanan NO. 32, BN 2025 (1062); 9 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Penyelenggaraan Pelatihan Bidang Keamanan Pangan ABSTRAK: bahwa pengaturan mengenai penyelenggaraan pelatihan bidang keamanan pangan sebagaimana telah diatur dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 16 Tahun 2021 tentang Penyelenggaraan Pelatihan Pengawas Pangan Kabupaten/Kota dan Penyuluh Keamanan Pangan sudah tidak sesuai dengan perkembangan hukum dan kebutuhan organisasi, sehingga perlu diganti Dasar hukum peraturan ini adalah UU Nomor 18 Tahun 2012; PP Nomor 86 Tahun 2019; Perpres Nomor 80 Tahun 2017; PerBPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan PerBPOM Nomor 13 Tahun 2022; PerBPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan PerBPOM Nomor 3 Tahun 2025. Peraturan ini mengatur mengenai pelatihan bidang keamanan pangan yang diselenggarakan oleh: a. unit kerja yang mempunyai tugas melaksanakan pengembangan sumber daya manusia pengawasan obat dan makanan; b. unit kerja pusat atau unit pelaksana teknis BPOM; atau c. lembaga penyelenggara pelatihan. CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 16 Desember 2025. Pada saat Peraturan Badan ini mulai berlaku, Peraturan Badan Pengawas Obat dan Makanan Nomor 16 Tahun 2021 tentang Penyelenggaraan Pelatihan Pengawas Pangan Kabupaten/Kota dan Penyuluh Keamanan Pangan (Berita Negara Republik Indonesia Tahun 2021 Nomor 472), dicabut dan dinyatakan tidak berlaku. 9 hlm"
+{
+  "PerBPOM_04_2024_Pedoman_Penerbitan_Sertifikat_Pemenuhan_Komitmen_Produksi_Pangan.pdf": {
+    "hash": "17dbfdd90c71aea2fb38aec915dabb8e7daf8cb905af2a81f156c39a638763b4",
+    "n_chunks": 117,
+    "last_ingested": "2026-09-13 22:33:21"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/326376/peraturan-bpom-no-22-tahun-2025",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/388176/peraturan-bpom-no-22-tahun-2025.pdf",
-    "title": "Penarikan dan Pemusnahan Pangan Olahan",
-    "number": "22",
-    "year": 2025,
-    "status": "Berlaku",
-    "effective_date": "28 Juli 2025",
-    "source_info": "BN 2025 (545); 47 hlm",
-    "category": "Pangan",
-    "filename": "PerBPOM_22_2025_Penarikan_dan_Pemusnahan_Pangan_Olahan.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_22_2025_Penarikan_dan_Pemusnahan_Pangan_Olahan.pdf",
-    "abstract": "Penarikan - Pemusnahan - Pangan Olahan 2025 Peraturan Badan Pengawas Obat dan Makanan NO. 22, BN 2025 (545); 47 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Penarikan dan Pemusnahan Pangan Olahan ABSTRAK: bahwa ketentuan mengenai penarikan pangan dari peredaran sebagaimana diatur dalam Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 22 Tahun 2017 tentang Penarikan Pangan dari Peredaran, sudah tidak sesuai dengan perkembangan kebutuhan hukum serta perkembangan ilmu pengetahuan dan teknologi di bidang pangan, sehingga perlu diganti Dasar hukum peraturan ini adalah UU Nomor 18 Tahun 2012; PP Nomor 86 Tahun 2019; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; PEraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025 Peraturan ini mengatur mengenai penarikan pangan berupa Penarikan Wajib atau Penarikan Sukarela; Pemusnahan berupa a. Pemusnahan atas perintah Kepala Badan atau Pemerintah Daerah sesuai kewenangannya; atau b. Pemusnahan atas prakarsa Pelaku Usaha Pangan. CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 28 Juli 2025. 47 hlm; hlm 1 sd 14 batang tubuh, hlm 15 sd 47 lampiran"
+  "PerBPOM_05_2026_Pengawasan_Pengelolaan_Obat_dan_Bahan_Obat_di.pdf": {
+    "hash": "3b2c42787a042cf86ec9f383ef74381824bde83fd1d0c18331332ca9e43aac1f",
+    "n_chunks": 114,
+    "last_ingested": "2026-09-13 22:33:26"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/326067/peraturan-bpom-no-16-tahun-2025",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/387861/peraturan-bpom-no-16-tahun-2025%20(1).pdf",
-    "title": "Pengawasan Sediaan Farmasi dan Pangan Olahan Melalui Peran Serta Masyarakat",
-    "number": "16",
-    "year": 2025,
-    "status": "Berlaku",
-    "effective_date": "04 Juni 2025",
-    "source_info": "BN 2025 (391); 12 hlm",
-    "category": "Pangan",
-    "filename": "PerBPOM_16_2025_Pengawasan_Sediaan_Farmasi_dan_Pangan_Olahan_Melalui.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_16_2025_Pengawasan_Sediaan_Farmasi_dan_Pangan_Olahan_Melalui.pdf",
-    "abstract": "Pengawasan - Farmasi - Pangan Olahan - Masyarakat 2025 Peraturan Badan Pengawas Obat dan Makanan NO. 16, BN 2025 (391); 12 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Pengawasan Sediaan Farmasi dan Pangan Olahan Melalui Peran Serta Masyarakat ABSTRAK: bahwa berdasarkan ketentuan Pasal 427 Peraturan Pemerintah Nomor 28 Tahun 2024 tentang Peraturan Pelaksanaan Undang-Undang Nomor 17 Tahun 2023 tentang Kesehatan serta Pasal 76, Pasal 77, dan Pasal 81 Peraturan Pemerintah Nomor 86 Tahun 2019 tentang Keamanan Pangan, masyarakat dapat berperan serta dalam pengawasan sediaan farmasi dan pangan olahan guna mewujudkan pelindungan dari bahaya yang disebabkan oleh penggunaan sediaan farmasi dan pangan olahan yang tidak tepat dan/atau tidak memenuhi standar dan/atau persyaratan Dasar hukum peraturan ini adalah UU Nomor 18 Tahun 2012; UU Nomor 17 Tahun 2023; PP Nomor 86 Tahun 2019; PP Nomor 28 Tahun 2024; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Pereaturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan Nomor 3 Tahun 2025 Peraturan ini mengatur mengenai peran masyarakat alam pengawasan Sediaan Farmasi dan Pangan Olahan terkait pemenuhan standar dan/atau persyaratan keamanan,"
+  "PerBPOM_10_2023_Penerapan_Program_Manajemen_Resiko_Keamanan_Pangan_Di.pdf": {
+    "hash": "e562948871eb77798dd7ff92c12ccedfd6d15f003810afdba55f814fcad18d66",
+    "n_chunks": 250,
+    "last_ingested": "2026-09-13 22:33:38"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/321139/peraturan-bpom-no-14-tahun-2025",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/382880/peraturan-bpom-no-14-tahun-2025.pdf",
-    "title": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 27 Tahun 2021 tentang Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis",
-    "number": "14",
-    "year": 2021,
-    "status": "Berlaku",
-    "effective_date": "15 Mei 2025",
-    "source_info": "BN 2025 (332); 4 hlm",
-    "category": "Pangan",
-    "filename": "PerBPOM_14_2021_Perubahan_atas_Peraturan_Badan_Pengawas_Obat_dan.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_14_2021_Perubahan_atas_Peraturan_Badan_Pengawas_Obat_dan.pdf",
-    "abstract": "ersyaratan - Pangan Olahan - Berasam Rendah - Dikemas Hermetis 2025 Peraturan Badan Pengawas Obat dan Makanan NO. 14, BN 2025 (332); 4 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 27 Tahun 2021 tentang Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis ABSTRAK: bahwa pengaturan persyaratan pangan olahan berasam rendah dikemas hermetis sebagaimana telah diatur dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 27 Tahun 2021 tentang Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis sudah tidak sesuai dengan perkembangan ilmu pengetahuan dan teknologi di bidang pangan olahan, sehingga perlu diubah Dasar hukum peraturan ini adalah UU Nomor 18 Tahun 2012; PP Nomor 86 Tahun 2019; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 23 Tahun 2020; Peraturan BPOM Nomor 27 Tahun 2021; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025 Peraturan ini mengubah Beberapa ketentuan dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 27 Tahun 2021 tentang Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis, yaitu ketentuan Pasal 7 mengenai Teknologi Halang Rintang dan Pangan Olahan Berasam Rendah dikemas Hermetis yang menggunakan Teknologi Halang Rintang CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 15 Mei 2025. 4 hlm"
+  "PerBPOM_13_2023_Kategori_Pangan.pdf": {
+    "hash": "b6f299d0bb6910f8cf4a41b634a013b5c6536eeb366a29e0f89d7b133684a79f",
+    "n_chunks": 15,
+    "last_ingested": "2026-09-13 22:33:39"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/223936/peraturan-bpom-no-27-tahun-2021",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/218510/Peraturan%20BPOM%20Nomor%2027%20Tahun%202021.pdf",
-    "title": "Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis",
-    "number": "27",
-    "year": 2021,
-    "status": "Berlaku",
-    "effective_date": "02 November 2021",
-    "source_info": "BN.2021/No.1218, peraturan.go.id: 11 hlm.",
-    "category": "Pangan",
-    "filename": "PerBPOM_27_2021_Persyaratan_Pangan_Olahan_Berasam_Rendah_Dikemas_Hermetis.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_27_2021_Persyaratan_Pangan_Olahan_Berasam_Rendah_Dikemas_Hermetis.pdf",
-    "abstract": "2021 Peraturan Badan Pengawas Obat dan Makanan NO. 27, BN.2021/No.1218, peraturan.go.id: 11 hlm. Peraturan Badan Pengawas Obat dan Makanan TENTANG Persyaratan Pangan Olahan Berasam Rendah Dikemas Hermetis ABSTRAK: CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 02 November 2021. Tutup TENTANG DATABASE PERATURAN Database Peraturan BPK merupakan bagian dari pelaksanaan JDIH di lingkungan BPK untuk menyebarluaskan informasi peraturan perundang-undangan dan dokumen hukum secara mudah, cepat, dan akurat kepada para pengguna baik kalangan internal BPK maupun masyarakat KONTAK Sekretariat Website JDIH BPK Badan Binbangkum - BPK Jalan Gatot Subroto 31 Jakarta Pusat, 10210 Telp (021) 25549000 ext. 1521 SITEMAP Subjek Jenis Tahun"
+  "PerBPOM_14_2021_Perubahan_atas_Peraturan_Badan_Pengawas_Obat_dan.pdf": {
+    "hash": "2d25528902beaf921e50704c273b0cb4b35e14655720fe4ff62491558a954535",
+    "n_chunks": 5,
+    "last_ingested": "2026-09-13 22:33:40"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/309970/peraturan-bpom-no-19-tahun-2024",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/370525/Peraturan%20BPOM%20Nomor%2019%20Tahun%202024.pdf",
-    "title": "Pengawasan Pangan Produk Rekayasa Genetik",
-    "number": "19",
-    "year": 2024,
-    "status": "Berlaku",
-    "effective_date": "28 November 2024",
-    "source_info": "BN 2024 (894); 57 hlm",
-    "category": "Pangan",
-    "filename": "PerBPOM_19_2024_Pengawasan_Pangan_Produk_Rekayasa_Genetik.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_19_2024_Pengawasan_Pangan_Produk_Rekayasa_Genetik.pdf",
-    "abstract": "Pengawasan Pangan Produk Rekayasa Genetik 2024 Peraturan Badan Pengawas Obat dan Makanan NO. 19, BN 2024 (894); 57 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Pengawasan Pangan Produk Rekayasa Genetik ABSTRAK: bahwa ketentuan mengenai pengawasan pangan produk rekayasa genetik sebagaimana diatur dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 6 Tahun 2018 tentang Pengawasan Pangan Produk Rekayasa Genetik sudah tidak sesuai dengan perkembangan ilmu pengetahuan dan teknologi serta hukum, sehingga perlu diganti Dasar hukum peraturan ini adalah UU Nomor 18 Tahun 2012; UU Nomor 6 Tahun 2023; PP Nomor 69 Tahun 1999; PP Nomor 21 Tahun 2005; PP Nomor 86 Tahun 2019; Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022 Peraturan ini mengatur menegnai pangan yang dihasilkan melalui proses rekayasa genetik berupa: a. bahan baku; b. BTP; c. Bahan Penolong; dan d. Pangan Olahan; persetujuan keamanan pangan Produk Rekayasa Genetik; pengeditas Genom; Label Pangan Produk Rekayasa Genetik; Pengawasan CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 28 November 2024."
+  "PerBPOM_16_2025_Pengawasan_Sediaan_Farmasi_dan_Pangan_Olahan_Melalui.pdf": {
+    "hash": "2acd4f8056d741bd5dbedd1c7046a641c6368a66b1798449921f5852f51483ef",
+    "n_chunks": 18,
+    "last_ingested": "2026-09-13 22:33:41"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/282151/peraturan-bpom-no-4-tahun-2024",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/341095/Peraturan%20BPOM%20Nomor%204%20Tahun%202024.pdf",
-    "title": "Pedoman Penerbitan Sertifikat Pemenuhan Komitmen Produksi Pangan Olahan Industri Rumah Tangga",
-    "number": "4",
-    "year": 2024,
-    "status": "Berlaku",
-    "effective_date": "16 Februari 2024",
-    "source_info": "BN 2024 (111); 70 hlm",
-    "category": "Pangan",
-    "filename": "PerBPOM_04_2024_Pedoman_Penerbitan_Sertifikat_Pemenuhan_Komitmen_Produksi_Pangan.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_04_2024_Pedoman_Penerbitan_Sertifikat_Pemenuhan_Komitmen_Produksi_Pangan.pdf",
-    "abstract": "2024 Peraturan Badan Pengawas Obat dan Makanan NO. 4, BN 2024 (111); 70 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Pedoman Penerbitan Sertifikat Pemenuhan Komitmen Produksi Pangan Olahan Industri Rumah Tangga ABSTRAK: CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 16 Februari 2024. Tutup TENTANG DATABASE PERATURAN Database Peraturan BPK merupakan bagian dari pelaksanaan JDIH di lingkungan BPK untuk menyebarluaskan informasi peraturan perundang-undangan dan dokumen hukum secara mudah, cepat, dan akurat kepada para pengguna baik kalangan internal BPK maupun masyarakat KONTAK Sekretariat Website JDIH BPK Badan Binbangkum - BPK Jalan Gatot Subroto 31 Jakarta Pusat, 10210 Telp (021) 25549000 ext. 1521 SITEMAP Subjek Jenis Tahun"
+  "PerBPOM_19_2024_Pengawasan_Pangan_Produk_Rekayasa_Genetik.pdf": {
+    "hash": "c20d18c913ca9e52a1bb6f3d0a9a558d50e6c52a4221b757cfa994fcf23b8514",
+    "n_chunks": 86,
+    "last_ingested": "2026-09-13 22:33:45"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/284990/peraturan-bpom-no-22-tahun-2023",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/344066/peraturan-bpom-no-22-tahun-2023.pdf",
-    "title": "Bahan Baku yang Dilarang dalam Pangan Olahan dan Bahan yang Dilarang Digunakan sebagai Bahan Tambahan Pangan",
-    "number": "22",
-    "year": 2023,
-    "status": "Berlaku",
-    "effective_date": "15 Agustus 2023",
-    "source_info": "BN 2023 (625); 17 hlm",
-    "category": "Pangan",
-    "filename": "PerBPOM_22_2023_Bahan_Baku_yang_Dilarang_dalam_Pangan_Olahan.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_22_2023_Bahan_Baku_yang_Dilarang_dalam_Pangan_Olahan.pdf",
-    "abstract": "2023 Peraturan Badan Pengawas Obat dan Makanan NO. 22, BN 2023 (625); 17 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Bahan Baku yang Dilarang dalam Pangan Olahan dan Bahan yang Dilarang Digunakan sebagai Bahan Tambahan Pangan ABSTRAK: CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 15 Agustus 2023. Tutup TENTANG DATABASE PERATURAN Database Peraturan BPK merupakan bagian dari pelaksanaan JDIH di lingkungan BPK untuk menyebarluaskan informasi peraturan perundang-undangan dan dokumen hukum secara mudah, cepat, dan akurat kepada para pengguna baik kalangan internal BPK maupun masyarakat KONTAK Sekretariat Website JDIH BPK Badan Binbangkum - BPK Jalan Gatot Subroto 31 Jakarta Pusat, 10210 Telp (021) 25549000 ext. 1521 SITEMAP Subjek Jenis Tahun"
+  "PerBPOM_20_2025_Standar_Cara_Distribusi_Obat_yang_Baik.pdf": {
+    "hash": "f8baca9f73cba5b3c49d6039bf1e93afa9ed13ada35403a0025da56accc13860",
+    "n_chunks": 146,
+    "last_ingested": "2026-09-13 22:33:53"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/263247/peraturan-bpom-no-13-tahun-2023",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/320341/peraturan-bpom-no-13-tahun-2023.pdf",
-    "title": "Kategori Pangan",
-    "number": "13",
-    "year": 2023,
-    "status": "Berlaku",
-    "effective_date": "06 Juni 2023",
-    "source_info": "BN.2023 (428)/6 hlm",
-    "category": "Pangan",
-    "filename": "PerBPOM_13_2023_Kategori_Pangan.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_13_2023_Kategori_Pangan.pdf",
-    "abstract": "pangan 2023 Peraturan Badan Pengawas Obat dan Makanan NO. 13, BN.2023 (428)/6 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Kategori Pangan ABSTRAK: a. bahwa kategori pangan merupakan kriteria yang menjadi dasar dalam penetapan standar dan/atau persyaratan keamanan, mutu, gizi, dan label pangan olahan; b. bahwa ketentuan mengenai kategori pangan sebagaimana telah diatur dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 34 Tahun 2019 tentang Kategori Pangan sudah tidak sesuai dengan perkembangan ilmu pengetahuan, teknologi, dan inovasi di bidang pangan, sehingga perlu diganti; c. bahwa berdasarkan ketentuan Pasal 3 ayat (1) huruf c Peraturan Presiden Nomor 80 Tahun 2017 tentang Badan Pengawas Obat dan Makanan, Badan Pengawas Obat dan Makanan memiliki fungsi penyusunan dan penetapan norma, standar, prosedur, dan kriteria di bidang pengawasan sebelum beredar dan pengawasan selama beredar; d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Badan Pengawas Obat dan Makanan tentang Kategori Pangan; Undang-Undang Nomor 18 Tahun 2012, Peraturan Pemerintah Nomor 69 Tahun 1999, Peraturan Pemerintah Nomor 86 Tahun 2019, Peraturan Presiden Nomor 80 Tahun 2017, Peraturan Badan Pengawas Obat dan Makanan Nomor 21 Tahun 2020 dan Peraturan Badan Pengawas Obat dan Makanan Nomor 22 Tahun 2020 Peraturan ini mengatur tentang ketentuan umum, persyaratan kategori pangan, deskripsi, definisi, dan/atau karakteristik dasar pangan, bahan baku dan pengawasan CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 06 Juni 2023. 6 hlm Tutup TENTANG DATABASE PERATURAN Database Peraturan BPK merupakan bagian dari pelaksanaan JDIH di lingkungan BPK untuk menyebarluaskan informasi peraturan perundang-undangan dan dokumen hukum secara mudah, cepat, dan akurat kepada para pengguna baik kalangan internal BPK maupun masyarakat KONTAK Sekretariat Website JDIH BPK"
+  "PerBPOM_22_2023_Bahan_Baku_yang_Dilarang_dalam_Pangan_Olahan.pdf": {
+    "hash": "0e8a808da79393e3fd4bc5b3048805bf7f5c12933dc5fa53254ff12bafd91722",
+    "n_chunks": 10,
+    "last_ingested": "2026-09-13 22:33:53"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/263208/peraturan-bpom-no-10-tahun-2023",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/320292/peraturan-bpom-no-10-tahun-2023.pdf",
-    "title": "Penerapan Program Manajemen Resiko Keamanan Pangan Di Sarana Produksi Pangan Olahan",
-    "number": "10",
-    "year": 2023,
-    "status": "Berlaku",
-    "effective_date": "13 Maret 2023",
-    "source_info": "BN.2023 (237)/266 hlm",
-    "category": "Pangan",
-    "filename": "PerBPOM_10_2023_Penerapan_Program_Manajemen_Resiko_Keamanan_Pangan_Di.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_10_2023_Penerapan_Program_Manajemen_Resiko_Keamanan_Pangan_Di.pdf",
-    "abstract": "manajemen-pangan 2023 Peraturan Badan Pengawas Obat dan Makanan NO. 10, BN.2023 (237)/266 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Penerapan Program Manajemen Resiko Keamanan Pangan Di Sarana Produksi Pangan Olahan ABSTRAK: a. bahwa untuk melindungi masyarakat dari peredaran pangan olahan yang tidak memenuhi standar dan persyaratan keamanan, mutu, dan gizi, perlu diterapkan sistem jaminan keamanan pangan; b. bahwa penerapan sistem jaminan keamanan pangan sebagaimana dimaksud dalam huruf a dilakukan melalui penerapan program manajemen risiko keamanan pangan di sarana produksi pangan olahan; c. bahwa penerapan program manajemen risiko keamanan pangan di industri pangan sebagaimana telah diatur dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 21 Tahun 2019 tentang Program Manajemen Risiko Keamanan Pangan di Industri Pangan sudah tidak sesuai dengan kebutuhan hukum dan perkembangan ilmu pengetahuan dan teknologi sehingga perlu diganti; d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c serta untuk melaksanakan ketentuan Pasal 29 ayat (3) Peraturan Pemerintah Nomor 86 Tahun 2019 tentang Keamanan Pangan, perlu menetapkan Peraturan Badan Pengawas Obat dan Makanan tentang Penerapan Program Manajemen Risiko Keamanan Pangan di Sarana Produksi Pangan Olahan; Undang-Undang Nomor 18 Tahun 2012, Peraturan Pemerintah Nomor 86 Tahun 2019, Peraturan Presiden Nomor 80 Tahun 2017, Peraturan Badan Pengawas Obat dan Makanan Nomor 21 Tahun 2020 dan Peraturan Badan Pengawas Obat dan Makanan Nomor 22 Tahun 2020 Peraturan ini mengatur tentang ketentuan umum, penerapan PMR, izin penerapan PMR, izin penerapan PMR bertahap, penerapan PMR bagi produsen yang memproduksi pangan olahan selain pangan olahan risiko tinggi dan/atau BTP, biaya, pengawasan, sanksi adminsitratif, ketentuan peralihan dan ketentuan dan ketentuan penutup CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 13 Maret 2023. 266 hlm Tutup TENTANG DATABASE PERATURAN Database Peraturan BPK merupakan bagian dari pelaksanaan JDIH di lingkungan BPK untuk menyebarluaskan informasi peraturan perundang-undangan dan dokumen hukum secara mudah, cepat, dan akurat kepada para pengguna baik kalangan internal BPK maupun masyarakat"
+  "PerBPOM_22_2025_Penarikan_dan_Pemusnahan_Pangan_Olahan.pdf": {
+    "hash": "9eced111c5fb1995ee72b27e88f3bda3684cb02e09d3c3a3d8dc50aacb81b6f8",
+    "n_chunks": 89,
+    "last_ingested": "2026-09-13 22:33:57"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/350939/peraturan-bpom-no-5-tahun-2026",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/414694/Peraturan%20Badan%20Pengawas%20Obat%20dan%20Makanan%20Nomor%205%20Tahun%202026%20tentang%20Pengawasan%20Pengelolaan%20Obat%20dan%20Bahan%20Obat%20di%20Fasilitas%20Pelayanan%20Kefarmasian%20dan%20Fasilitas%20Lain.pdf",
-    "title": "Pengawasan Pengelolaan Obat dan Bahan Obat di Fasilitas Pelayanan Kefarmasian dan Fasilitas Lain",
-    "number": "5",
-    "year": 2026,
-    "status": "Berlaku",
-    "effective_date": "06 April 2026",
-    "source_info": "JDIH BPOM",
-    "category": "Obat",
-    "filename": "PerBPOM_05_2026_Pengawasan_Pengelolaan_Obat_dan_Bahan_Obat_di.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_05_2026_Pengawasan_Pengelolaan_Obat_dan_Bahan_Obat_di.pdf",
-    "abstract": "Pengawasan Pengelolaan Obat dan Bahan Obat-Fasilitas Pelayanan Kefarmasian - Fasilitas Lain 2026 Peraturan Badan Pengawas Obat dan Makanan NO. 5, JDIH BPOM Peraturan Badan Pengawas Obat dan Makanan TENTANG Pengawasan Pengelolaan Obat dan Bahan Obat di Fasilitas Pelayanan Kefarmasian dan Fasilitas Lain ABSTRAK: masyarakat perlu dilindungi dari risiko obat dan bahan obat yang tidak memenuhi persyaratan keamanan, khasiat, dan mutu serta risiko penyimpangan pengelolaan obat dan bahan obat yang dapat membahayakan kesehatan masyarakat; ketentuan mengenai pengelolaan obat, bahan obat, narkotika, psikotropika, dan prekursor farmasi sebagaimana diatur dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2021 tentang Pengawasan Pengelolaan Obat, Bahan Obat, Narkotika, Psikotropika, dan Prekursor Farmasi di Fasilitas Pelayanan Kefarmasian sudah tidak sesuai dengan perkembangan hukum, sehingga perlu diganti; berdasarkan ketentuan Pasal 3 ayat (1) huruf d Peraturan Presiden Nomor 80 Tahun 2017 tentang Badan Pengawas Obat dan Makanan, Badan Pengawas Obat dan Makanan memiliki fungsi pelaksanaan tugas pengawasan sebelum beredar dan pengawasan selama beredar Peraturan Pemerintah Nomor 28 Tahun 2024; Peraturan Presiden Nomor 80 Tahun 2017;Peraturan Badan Pengawas Obat dan Makanan Nomor 21 Tahun 2020; Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 Ketentuan Umum, Pengelolaan Onbat dan Bahan Obat, Pengawasan, Larangan, Sanksi Administratif, Ketentuan Peralihan, Ketentuan Penutup CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 06 April 2026. Peraturan Badan Pengawas Obat dan Makanan Nomor 24 Tahun 2021 tentang Pengawasan Pengelolaan Obat, Bahan Obat, Narkotika, Psikotropika, dan Prekursor Farmasi di Fasilitas Pelayanan Kefarmasian (Berita Negara Republik Indonesia Tahun 2021 Nomor 1152) 63 hlm. Tutup TENTANG DATABASE PERATURAN Database Peraturan BPK merupakan bagian dari pelaksanaan JDIH di lingkungan BPK untuk menyebarluaskan informasi peraturan perundang-undangan dan dokumen hukum secara mudah, cepat, dan akurat kepada para pengguna baik kalangan internal BPK maupun masyarakat"
+  "PerBPOM_24_2025_Tata_Laksana_Persetujuan_Obat_Pengembangan_Baru.pdf": {
+    "hash": "9485f7a2add86581f7452d669bf1935ae4eef508a6d1a15c363b479382d4ce14",
+    "n_chunks": 60,
+    "last_ingested": "2026-09-13 22:34:00"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/345097/peraturan-bpom-no-1-tahun-2026",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/408377/peraturan-bpom-no-1-tahun-2026.pdf",
-    "title": "Perubahan Kedua atas Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan",
-    "number": "1",
-    "year": 2023,
-    "status": "Berlaku",
-    "effective_date": "26 Januari 2026",
-    "source_info": "BN 2026 (61); 15 hlm",
-    "category": "Obat",
-    "filename": "PerBPOM_01_2023_Perubahan_Kedua_atas_Peraturan_Badan_Pengawas_Obat.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_01_2023_Perubahan_Kedua_atas_Peraturan_Badan_Pengawas_Obat.pdf",
-    "abstract": "Organisasi - Tata Kerja - Unit Pelaksana Teknis - Badan Pengawas Obat dan Makanan 2026 Peraturan Badan Pengawas Obat dan Makanan NO. 1, BN 2026 (61); 15 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Perubahan Kedua atas Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan ABSTRAK: bahwa untuk meningkatkan efektivitas dan kualitas layanan pengawasan obat dan makanan, perlu dilakukan penataan organisasi dan tata kerja unit pelaksana teknis pada Badan Pengawas Obat dan Makanan, sehingga Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan sebagaimana telah diubah dengan Peraturan Badan Pengawas Obat dan Makanan Nomor 3 Tahun 2025 tentang Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 19 Tahun 2023 tentang Organisasi dan Tata Kerja Unit Pelaksana Teknis pada Badan Pengawas Obat dan Makanan perlu diubah Peraturan ini mengatur mengenai Perpres Nomor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; PermenPANRB Nomor 2 Tahun 2023; Peraturan BPOM Nomor 18 Tahun 2023; Peraturan BPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025."
+  "PerBPOM_27_2021_Persyaratan_Pangan_Olahan_Berasam_Rendah_Dikemas_Hermetis.pdf": {
+    "hash": "b0c5c012ff824cf49cbec7bffeb7a8512065182083518906a51aa861a1203053",
+    "n_chunks": 18,
+    "last_ingested": "2026-09-13 22:34:01"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/335228/peraturan-bpom-no-30-tahun-2025",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/397799/peraturan-bpom-no-30-tahun-2025.pdf",
-    "title": "Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 14 Tahun 2024 tentang Pengawasan Obat dan Makanan yang Diedarkan Secara Daring",
-    "number": "30",
-    "year": 2024,
-    "status": "Berlaku",
-    "effective_date": "03 November 2025",
-    "source_info": "BN 2025 (900); 4 hlm",
-    "category": "Obat",
-    "filename": "PerBPOM_30_2024_Perubahan_atas_Peraturan_Badan_Pengawas_Obat_dan.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_30_2024_Perubahan_atas_Peraturan_Badan_Pengawas_Obat_dan.pdf",
-    "abstract": "Pengawasan - Obat - Makanan - Daring 2025 Peraturan Badan Pengawas Obat dan Makanan NO. 30, BN 2025 (900); 4 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 14 Tahun 2024 tentang Pengawasan Obat dan Makanan yang Diedarkan Secara Daring ABSTRAK: bahwa pengaturan mengenai pengawasan peredaran obat dan makanan secara daring sebagaimana telah diatur dalam Peraturan Badan Pengawas Obat dan Makanan Nomor 14 Tahun 2024 tentang Pengawasan Obat dan Makanan yang Diedarkan Secara Daring sudah tidak sesuai dengan kebutuhan hukum, sehingga perlu diubah Dasar hukum peraturan ini adalah PP Nomor 71 Tahun 2019; Perpres Nomor 80 Tahun 2017; PerBPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan PerBPOM Nomor 13 Tahun 2022; PerBPOM Nomor 19 Tahun 2023 sebagaimana telah diubah dengan PerBPOM Nomor 3 Tahun 2025; PerBPOM Nomor 14 Tahun 2024. Peraturan ini mengubah beberapa ketentuan dalam Peraturan Badan Pengawas Obat"
+  "PerBPOM_27_2025_Standar_Kegiatan_Usaha_dan_Produk_pada_Penyelenggaraan.pdf": {
+    "hash": "fd0cf9d342ea1156930c11395d51032eaaeb81e6fb8cc8072f485e14102bab02",
+    "n_chunks": 280,
+    "last_ingested": "2026-09-13 22:34:14"
   },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/333960/peraturan-bpom-no-28-tahun-2025",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/396515/peraturan-bpom-no-28-tahun-2025.pdf",
-    "title": "Rencana Strategis Badan Pengawas Obat dan Makanan Tahun 2025-2029",
-    "number": "28",
-    "year": 2025,
-    "status": "Berlaku",
-    "effective_date": "07 Oktober 2025",
-    "source_info": "BN 2025 (763); 256 hlm",
-    "category": "Obat",
-    "filename": "PerBPOM_28_2025_Rencana_Strategis_Badan_Pengawas_Obat_dan_Makanan.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_28_2025_Rencana_Strategis_Badan_Pengawas_Obat_dan_Makanan.pdf",
-    "abstract": "Rencana Strategis - Badan Pengawas Obat dan Makanan 2025 Peraturan Badan Pengawas Obat dan Makanan NO. 28, BN 2025 (763); 256 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Rencana Strategis Badan Pengawas Obat dan Makanan Tahun 2025-2029 ABSTRAK: bahwa untuk melaksanakan ketentuan Pasal 19 ayat (2) Undang-Undang Nomor 25 Tahun 2004 tentang Sistem Perencanaan Pembangunan Nasional, Pasal 17 ayat (3) Peraturan Pemerintah Nomor 40 Tahun 2006 tentang Tata Cara Penyusunan Rencana Pembangunan Nasional, dan Pasal 19 ayat (1) Peraturan Presiden Nomor 80 Tahun 2025 tentang Penyusunan Rencana Strategis dan Rencana Kerja Kementerian/Lembaga Dasar hukum peraturan ini adalah UU Nomor 25 Tahun 2004; PP Nomor 40 Tahun 2006; Perpres Nomor 80 Tahun 2017; Perpres Nomor 12 Tahun 2025; Perpres Nomor 80 Tahun 2025; PerBPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan PerBPOM Nomor 13 Tahun 2022;"
-  },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/334134/peraturan-bpom-no-27-tahun-2025",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/396690/peraturan-bpom-no-27-tahun-2025.pdf",
-    "title": "Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Subsektor Obat dan Makanan",
-    "number": "27",
-    "year": 2025,
-    "status": "Berlaku",
-    "effective_date": "03 Oktober 2025",
-    "source_info": "BN 205 (747); 198 hlm",
-    "category": "Obat",
-    "filename": "PerBPOM_27_2025_Standar_Kegiatan_Usaha_dan_Produk_pada_Penyelenggaraan.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_27_2025_Standar_Kegiatan_Usaha_dan_Produk_pada_Penyelenggaraan.pdf",
-    "abstract": "Standar Kegiatan Usaha - Produk - Penyelenggaraan - Perizinan Berusaha - Berbasis Risiko - Subsektor - Obat dan Makanan 2025 Peraturan Badan Pengawas Obat dan Makanan NO. 27, BN 205 (747); 198 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Standar Kegiatan Usaha dan Produk pada Penyelenggaraan Perizinan Berusaha Berbasis Risiko Subsektor Obat dan Makanan ABSTRAK: bahwa untuk melaksanakan ketentuan Pasal 5 ayat (7) Peraturan Pemerintah Nomor 28 Tahun 2025 tentang Penyelenggaraan Perizinan Berusaha Berbasis Risiko Dasar hukum peraturan ini adalah UU 6/2023; PP 28/2025; Perpres 80/2017; Perba BPOM 21/2020 sebagaimana diubah dengan Perba BPOM 13/2022; Perba BPOM 19/2023 sebagaimana diubah dengan Perba BPOM 3/2025. Peraturan ini mengatur mengenai standar kegiatan usaha dan produk pada penyelenggaraan perizinan berusaha berbasis risiko subsektor obat dan makanan CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 03 Oktober 2025. 198 hlm; 1 s.d. 4 (batang tubuh), 5 s.d. 198 (lampiran)"
-  },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/328079/peraturan-bpom-no-24-tahun-2025",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/389930/peraturan-bpom-no-24-tahun-2025.pdf",
-    "title": "Tata Laksana Persetujuan Obat Pengembangan Baru",
-    "number": "24",
-    "year": 2025,
-    "status": "Berlaku",
-    "effective_date": "20 Agustus 2025",
-    "source_info": "BN 2025 (613); 37 hlm",
-    "category": "Obat",
-    "filename": "PerBPOM_24_2025_Tata_Laksana_Persetujuan_Obat_Pengembangan_Baru.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_24_2025_Tata_Laksana_Persetujuan_Obat_Pengembangan_Baru.pdf",
-    "abstract": "Tata Laksana - Persetujuan - Obat - Pengembangan Baru 2025 Peraturan Badan Pengawas Obat dan Makanan NO. 24, BN 2025 (613); 37 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Tata Laksana Persetujuan Obat Pengembangan Baru ABSTRAK: bahwa pengaturan mengenai tata laksana persetujuan obat pengembangan baru sebagaimana diatur dalam Peraturan Kepala Badan Pengawas Obat dan Makanan Nomor 16 Tahun 2015 tentang Tata Laksana dan Penilaian Obat Pengembangan Baru sudah tidak sesuai dengan kebutuhan hukum serta perkembangan ilmu pengetahuan dan teknologi di bidang obat, sehingga perlu diganti Dasar hukum peraturan ini adalah PP Nomor 28 Tahun 2024; Perpres Noor 80 Tahun 2017; PErka BPOM Nomor 24 Tahun 2017 sebagaimana telah beberapa kali diubah terakhir dengan Peraturan BPOM Nomor 23 Tahun 2025; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022 PEraturan ini mengatur mengenai permohonan penilaian obat pengembangan baru; penilaian obat pengembangan baru; keputusan atas penilaian obat pengembangan baru; masa berlaku surat keterangan obat pengembangan baru; perubahan dokumen; dan pelaporan CATATAN: Peraturan Badan Pengawas Obat dan Makanan ini mulai berlaku pada tanggal 20 Agustus 2025. 37 hlm; hlm 1 sd 10 (batang tubuh); hlm 11 sd 37 (lampiran) Tutup"
-  },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/326279/peraturan-bpom-no-21-tahun-2025",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/388088/peraturan-bpom-no-21-tahun-2025.pdf",
-    "title": "Pencabutan Peraturan Badan Pengawas Obat dan Makanan Nomor 29 Tahun 2022 tentang Jabatan dan Kelas Jabatan di Lingkungan Badan Pengawas Obat dan Makanan sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Badan Pengawas Obat dan Makanan Nomor 13 Tahun 2024 tentang Perubahan Kedua atas Peraturan Badan Pengawas Obat dan Makanan Nomor 29 Tahun 2022 tentang Jabatan dan Kelas Jabatan di Lingkungan Badan Pengawas Obat dan Makanan",
-    "number": "21",
-    "year": 2022,
-    "status": "Berlaku",
-    "effective_date": "03 Juli 2025",
-    "source_info": "BN 2025 (473); 4 hlm",
-    "category": "Obat",
-    "filename": "PerBPOM_21_2022_Pencabutan_Peraturan_Badan_Pengawas_Obat_dan_Makanan.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_21_2022_Pencabutan_Peraturan_Badan_Pengawas_Obat_dan_Makanan.pdf",
-    "abstract": "Jabatan - Kelas Jabatan - Badan Pengawas Obat dan Makanan 2025 Peraturan Badan Pengawas Obat dan Makanan NO. 21, BN 2025 (473); 4 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Pencabutan Peraturan Badan Pengawas Obat dan Makanan Nomor 29 Tahun 2022 tentang Jabatan dan Kelas Jabatan di Lingkungan Badan Pengawas Obat dan Makanan sebagaimana telah beberapa kali diubah terakhir dengan Peraturan Badan Pengawas Obat dan Makanan Nomor 13 Tahun 2024 tentang Perubahan Kedua atas Peraturan Badan Pengawas Obat dan Makanan Nomor 29 Tahun 2022 tentang Jabatan dan Kelas Jabatan di Lingkungan Badan Pengawas Obat dan Makanan ABSTRAK: bahwa jabatan dan kelas jabatan di lingkungan Badan Pengawas Obat dan Makanan sebagaimana telah"
-  },
-  {
-    "detail_url": "https://peraturan.bpk.go.id/Details/326278/peraturan-bpom-no-20-tahun-2025",
-    "pdf_url": "https://peraturan.bpk.go.id/Download/388087/peraturan-bpom-no-20-tahun-2025.pdf",
-    "title": "Standar Cara Distribusi Obat yang Baik",
-    "number": "20",
-    "year": 2025,
-    "status": "Berlaku",
-    "effective_date": "03 Juli 2025",
-    "source_info": "BN 2025 (472); 96 hlm",
-    "category": "Obat",
-    "filename": "PerBPOM_20_2025_Standar_Cara_Distribusi_Obat_yang_Baik.pdf",
-    "local_path": "dataset_bpk_bpom\\pdf\\PerBPOM_20_2025_Standar_Cara_Distribusi_Obat_yang_Baik.pdf",
-    "abstract": "Standar - Distribusi - Obat 2025 Peraturan Badan Pengawas Obat dan Makanan NO. 20, BN 2025 (472); 96 hlm Peraturan Badan Pengawas Obat dan Makanan TENTANG Standar Cara Distribusi Obat yang Baik ABSTRAK: bahwa Peraturan Badan Pengawas Obat dan Makanan Nomor 9 Tahun 2019 tentang Pedoman Teknis Cara Distribusi Obat yang Baik sebagaimana telah diubah dengan Peraturan Badan Pengawas Obat dan Makanan Nomor 6 Tahun 2020 tentang Perubahan atas Peraturan Badan Pengawas Obat dan Makanan Nomor 9 Tahun 2019 tentang Pedoman Teknis Cara Distribusi Obat yang Baik sudah tidak sesuai dengan kebutuhan hukum serta perkembangan teknologi di bidang distribusi obat, sehingga perlu diganti Dasar hukum peraturan ini adalah PP Nomor 28 Tahun 2024; Perpres Noor 80 Tahun 2017; Peraturan BPOM Nomor 21 Tahun 2020 sebagaimana telah diubah dengan Peraturan BPOM Nomor 13 Tahun 2022; Peraturan BPOM Nomor 19 TAhun 2023 sebagaimana telah diubah dengan Peraturan BPOM Nomor 3 Tahun 2025 Peraturan ini mengatur mengenai penerapan standar Cara Distribusi Obat yang Baik; sanksi administratif bagi Pedagang Besar Farmasi (PBF), PBF Cabang, Fasilitas Pengelolaan Kefarmasian, Penyelenggara Sistem Elektronik (PSE)/ Penyelenggara Perdagangan Melalui Sistem Elektronik (PPMSE), dan/atau Industri Farmasi yang melanggar ketentuan CATATAN:"
+  "PerBPOM_30_2024_Perubahan_atas_Peraturan_Badan_Pengawas_Obat_dan.pdf": {
+    "hash": "6c9cfef7acbf32fb91a2eb4c63c658f5c71656d45e1b370249b095126016792a",
+    "n_chunks": 5,
+    "last_ingested": "2026-09-13 22:34:14"
   }
-]
+}
